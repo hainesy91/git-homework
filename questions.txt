@@ -1,4 +1,15 @@
 How do you create a new git repository locally?
-How would you find out what files are currently staged?
+
+From the command line, in the folder that you want to create the git repository, type 'git init'. 
+
+How would you find out what files are currently staged? 
+
+By using the 'git status' command
+
 How would you add a file to the staging area?
+
+Using the command 'git add <FileName>'
+
 How would you commit your changes with the message?
+
+By using the command 'git commit -m "Insert Message Here" '
